@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//erimaldonado.github.io/rick-morty-app/static/css/main.302a20d1.css",
+    "main.js": "//erimaldonado.github.io/rick-morty-app/static/js/main.52913fd3.js",
+    "static/media/logo.png": "//erimaldonado.github.io/rick-morty-app/static/media/logo.adee5699f1526f42b4f1.png",
+    "static/media/nav-icon3.svg": "//erimaldonado.github.io/rick-morty-app/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "//erimaldonado.github.io/rick-morty-app/static/media/nav-icon2.c734715bc91913916a1601f967847de5.svg",
+    "index.html": "//erimaldonado.github.io/rick-morty-app/index.html",
+    "static/media/nav-icon1.svg": "//erimaldonado.github.io/rick-morty-app/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.302a20d1.css.map": "//erimaldonado.github.io/rick-morty-app/static/css/main.302a20d1.css.map",
+    "main.52913fd3.js.map": "//erimaldonado.github.io/rick-morty-app/static/js/main.52913fd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302a20d1.css",
+    "static/js/main.52913fd3.js"
+  ]
+}
